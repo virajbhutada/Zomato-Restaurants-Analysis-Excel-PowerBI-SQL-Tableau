@@ -53,7 +53,7 @@ This project was created to demonstrate proficiency in data analysis and visuali
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.txt). See the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the [MIT License](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/blob/main/LICENSE). See the [LICENSE.txt](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/blob/main/LICENSE) file for details.
 
 
 ## Conclusion
