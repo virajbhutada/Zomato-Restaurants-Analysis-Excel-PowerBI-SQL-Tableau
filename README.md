@@ -1,7 +1,7 @@
 # Zomato Restaurants Analysis Project
 
 ## Overview
-This project involves comprehensive analysis of Zomato restaurant data using advanced Excel functions, SQL queries, and interactive dashboards created with Power BI and Tableau. The objective is to gain insights into restaurant industry trends related to location, opening trends, ratings, and price ranges.
+This project involves a comprehensive analysis of Zomato restaurant data using advanced Excel functions, SQL queries, and interactive dashboards created with Power BI and Tableau. The primary objective is to extract valuable insights into restaurant industry trends related to location, opening trends, ratings, and price ranges.
 
 ## Objectives
 - Develop a comprehensive Country Map Table.
@@ -17,24 +17,26 @@ This project involves comprehensive analysis of Zomato restaurant data using adv
 (Note: Key Performance Indicators (KPIs) are not limited solely to the above; experimentation with additional KPIs is encouraged.)
 
 ## Tools Used
-- **Excel**: Advanced Excel functions such as VLOOKUP, PivotTables, and conditional formatting.
-- **SQL**: SQL queries for data extraction and manipulation.
-- **Power BI**: Interactive dashboards for data visualization and analysis.
-- **Tableau**: Interactive dashboards for visualizing the Zomato restaurant data.
+- **Excel**: Leveraged advanced Excel functions such as VLOOKUP, PivotTables, and conditional formatting.
+- **SQL**: Utilized SQL queries for data extraction and manipulation.
+- **Power BI**: Created interactive dashboards for visualizing and analyzing Zomato restaurant data.
+- **Tableau**: Employed Tableau for visualizing Zomato restaurant data and generating insights.
 
-## Screenshots
+## Snaps/Visuals
 
 ### Excel
 ![Excel Dashboard](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/assets/143819712/5326a25d-1268-45c7-8c04-2d547e7501cd)
-*Excel Dashboard: Utilized advanced Excel functions for data analysis and visualization.*
-
+*Excel Dashboard: Utilized advanced Excel functions for comprehensive data analysis and visualization.*
 ### Power BI
 ![Power BI Dashboard](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/assets/143819712/1d426267-53c0-4251-9af4-8540ff1c770d)
-*Power BI Dashboard: Interactive dashboards created for visualizing and analyzing Zomato restaurant data.*
+*Power BI Dashboard: Developed interactive dashboards for enhanced visualization and analysis of Zomato restaurant data.*
 
 ### Tableau
 ![Tableau Dashboard](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/assets/143819712/095d1587-4ee9-4a42-92aa-6675ed47c2b4)
-*Tableau Dashboard: Utilized for visualizing Zomato restaurant data and generating insights.*
+*Tableau Dashboard: Utilized Tableau for visualizing Zomato restaurant data and deriving actionable insights.*
+
+
+---
 
 ## Get Started
 [![Clone](https://img.shields.io/static/v1?label=Clone&message=Repository&color=blue&logo=git)](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau.git) [![Push](https://img.shields.io/static/v1?label=Push&message=Changes&color=green&logo=git)](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/compare) [![Pull](https://img.shields.io/static/v1?label=Pull&message=Requests&color=orange&logo=git)](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/pulls) [![Issues](https://img.shields.io/static/v1?label=Raise&message=Issues&color=red&logo=github)](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/issues)
@@ -43,7 +45,15 @@ This project involves comprehensive analysis of Zomato restaurant data using adv
 
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)
 
+---
 
-## Why This Project?
+### Why This Project?
 This project was created to demonstrate proficiency in data analysis and visualization tools such as Excel, SQL, Power BI, and Tableau. By analyzing Zomato restaurant data, valuable insights were obtained into industry trends, enabling informed decision-making and strategic planning.
+
+## Conclusion
+This project represents a meticulous analysis endeavor aimed at unraveling the intricate patterns within Zomato restaurant data. By leveraging a combination of advanced Excel functions, SQL queries, and interactive dashboards with Power BI and Tableau, we've unearthed valuable insights crucial for informed decision-making within the restaurant industry.
+
+Your engagement is vital to the continuous enhancement of this project. Whether it's through cloning the repository, contributing with your insights, or connecting with me on LinkedIn, let's collaborate and elevate our understanding of the restaurant landscape together.
+
+Thank you for exploring this project, and here's to making data-driven decisions that shape the future of dining experiences!
 
