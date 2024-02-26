@@ -50,6 +50,12 @@ This project involves a comprehensive analysis of Zomato restaurant data using a
 ### Why This Project?
 This project was created to demonstrate proficiency in data analysis and visualization tools such as Excel, SQL, Power BI, and Tableau. By analyzing Zomato restaurant data, valuable insights were obtained into industry trends, enabling informed decision-making and strategic planning.
 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.txt). See the [LICENSE.txt](LICENSE.txt) file for details.
+
+
 ## Conclusion
 This project represents a meticulous analysis endeavor aimed at unraveling the intricate patterns within Zomato restaurant data. By leveraging a combination of advanced Excel functions, SQL queries, and interactive dashboards with Power BI and Tableau, we've unearthed valuable insights crucial for informed decision-making within the restaurant industry.
 
