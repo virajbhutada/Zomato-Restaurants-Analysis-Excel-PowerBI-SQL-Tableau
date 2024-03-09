@@ -61,5 +61,5 @@ This project represents a meticulous analysis endeavor aimed at unraveling the i
 
 Your engagement is vital to the continuous enhancement of this project. Whether it's through cloning the repository, contributing with your insights, or connecting with me on LinkedIn, let's collaborate and elevate our understanding of the restaurant landscape together.
 
-Thank you for exploring this project, and here's to making data-driven decisions that shape the future of dining experiences!
+**Thank you** for exploring this project, and here's to making data-driven decisions that shape the future of dining experiences!
 
